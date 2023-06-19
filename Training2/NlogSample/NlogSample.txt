@@ -1,0 +1,15 @@
+2023-06-19 13:30:40.7732 Info Message Template Auto Format enabled
+2023-06-19 13:30:40.8610 Info Registered target NLog.Targets.FileTarget(Name=all_logs)
+2023-06-19 13:30:40.8747 Info Registered target NLog.Targets.FileTarget(Name=relevant_logs)
+2023-06-19 13:30:40.9213 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
+2023-06-19 13:30:44.1066 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
+2023-06-19 13:33:28.8827 Info Message Template Auto Format enabled
+2023-06-19 13:33:29.5306 Info Registered target NLog.Targets.FileTarget(Name=all_logs)
+2023-06-19 13:33:29.5306 Info Registered target NLog.Targets.FileTarget(Name=relevant_logs)
+2023-06-19 13:33:29.6932 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
+2023-06-19 13:33:31.2078 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
+2023-06-19 13:42:54.8252 Info Message Template Auto Format enabled
+2023-06-19 13:42:54.8959 Info Registered target NLog.Targets.FileTarget(Name=all_logs)
+2023-06-19 13:42:54.8959 Info Registered target NLog.Targets.FileTarget(Name=relevant_logs)
+2023-06-19 13:42:54.9329 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
+2023-06-19 13:42:57.3314 Info Validating config: TargetNames=all_logs, relevant_logs, ConfigItems=24, FilePath=C:\Users\user\Desktop\api\ReplicaOfMarc\Training2\bin\Debug\net7.0\NLog.config
